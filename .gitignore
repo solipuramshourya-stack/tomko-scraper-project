@@ -1,0 +1,19 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# macOS junk
+.DS_Store
+
+# env
+.env
+*/tomkoenv/
+venv/
+
+# logs
+*.log
+
+# data (optional)
+data/*.xlsx
+data/*.csv
